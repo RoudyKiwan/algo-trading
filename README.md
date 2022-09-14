@@ -1,4 +1,4 @@
-#Key 1 algo trading
+# Key 1 algo trading
 
 This is my first python personnal project. 
 
