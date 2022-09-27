@@ -1,4 +1,4 @@
-# Algo trading
+# Algo trading - First OOP project
 
 This is my first python personnal project. 
 
